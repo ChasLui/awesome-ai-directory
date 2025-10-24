@@ -102,6 +102,7 @@
 | [AI Tool Mall](https://aitoolmall.com) | AI工具商城和导航 | 43 |  |
 | [TopApps](https://topapps.ai) | 顶级AI应用和工具推荐 | 34 |  |
 | [AI Tools Directory](https://ailib.ru/en) | 多语言AI工具目录 | 26 |  |
+| [AI Tools Hub](https://richlyai.com/ai-tools/) | AI工具目录 |  |  |
 | [Toolpilot.ai](https://www.toolpilot.ai) | AI工具导航和评估平台 | 57 | 413000 |
 | [AI Directory](https://www.aidirectory.org) | 综合AI工具和资源目录 | 11 | 6600 |
 | [AI Registers](https://airegisters.com) | AI工具和模型注册平台 | 4 |  |
